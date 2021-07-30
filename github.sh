@@ -38,4 +38,4 @@ fi
 
 git add .
 git commit -m "$COMMIT_MSG" &> /dev/null
-git push "$REMOTE_NAME" "$BRANCH_NAME"
+git push "$REMOTE_NAME" "$BRANCH_NAME" &> /dev/null
