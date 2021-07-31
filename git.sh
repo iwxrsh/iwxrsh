@@ -43,4 +43,4 @@ info "Done\n"
 
 info "Pushing changes...\n"
 git push "$REMOTE_NAME" "$BRANCH_NAME" &> /dev/null
-info "Donw\n"
+info "Done\n"
