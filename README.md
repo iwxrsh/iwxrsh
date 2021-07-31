@@ -30,7 +30,7 @@
 ### Activity
 <img src="https://github-readme-stats.vercel.app/api?username=iwxrsh&show_icons=true&theme=radical&hide_border=true" width="380" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwxrsh&layout=compact&theme=radical&langs_count=8" width="380" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwxrsh&layout=compact&theme=radical&langs_count=8&hide_border=true" width="380" />
 
 ### License
 This repository is licensed under the [MIT License](./LICENSE).

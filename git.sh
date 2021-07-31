@@ -36,6 +36,11 @@ else
   COMMIT_MSG="$msg"
 fi
 
+info "Adding changes...\n"
 git add .
 git commit -m "$COMMIT_MSG" &> /dev/null
+info "Done\n"
+
+info "Pushing changes...\n"
 git push "$REMOTE_NAME" "$BRANCH_NAME" &> /dev/null
+info "Donw\n"
