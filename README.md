@@ -27,6 +27,9 @@
 
 ### Contributions
 
+I've contributed to the following projects.\
+<a title="npm/npm-expansions" href="https://github.com/npm/npm-expansions"><img src="./assets/npm.png" width="70" /></a>
+
 ### Social Media
 
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/iwxrsh)\
@@ -34,8 +37,7 @@
 
 ### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=iwxrsh&show_icons=true&theme=radical&hide_border=true" width="380" />
-<br />
+<img src="https://github-readme-stats.vercel.app/api?username=iwxrsh&show_icons=true&theme=radical&hide_border=true" width="380" />\
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwxrsh&layout=compact&theme=radical&langs_count=8&hide_border=true" width="380" />
 
 ### License
