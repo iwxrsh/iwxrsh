@@ -1,0 +1,31 @@
+{
+  "name": "@iwxrsh/iwxrsh",
+  "version": "0.0.1",
+  "description": "✨ GitHub profile README",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwxrsh/iwxrsh.git"
+  },
+  "scripts": {
+    "build": "./build.js",
+    "lint": "npx eslint . && npx prettier --write ."
+  },
+  "keywords": [
+    "profile",
+    "readme",
+    "github",
+    "portfolio"
+  ],
+  "author": "iwxrsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iwxrsh/iwxrsh/issues"
+  },
+  "homepage": "https://github.com/iwxrsh/iwxrsh#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.3.2"
+  }
+}
